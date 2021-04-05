@@ -67,7 +67,7 @@ Name: nordbynet
 
 Blocktime: 15 seconds, per default
 
-Chain ID: 333, the same as the homework
+Chain ID: 333, the same as the in-class activity
 
 Password: None, I clicked enter twice to bypass the password requirement
 
