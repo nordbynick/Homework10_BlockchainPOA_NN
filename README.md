@@ -49,6 +49,8 @@ Initiate Node 2 mining: ./geth --datadir node2 --unlock "0xfC7ed644c6DC1Bf11aD3e
 
 Established network through: ./puppeth
 
+> For the network we selected Proof of Authority, which delegates certain nodes (the ones created above) as administrators ("sealers"). We also prefunded the nodes in the setup process as well. 
+
 
 **Network Configuration:**
 
