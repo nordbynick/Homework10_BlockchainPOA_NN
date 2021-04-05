@@ -80,6 +80,7 @@ To connect my network to MyCrypto, I followed the instructions highlighted in th
 
 > HTTP: http://127.0.0.1:8545
 
+**Screenshots**
 
 
 
