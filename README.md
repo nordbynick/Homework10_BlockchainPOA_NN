@@ -9,7 +9,7 @@ Blockchain Homework
 
 > Download MyCrypto
 
-> Download Geth & Tools 1.9.7
+> Download Geth & Tools 1.9.7 (windows 64 bit)
  
 > Git Bash terminal set up for windows
 
