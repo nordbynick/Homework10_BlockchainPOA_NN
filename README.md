@@ -32,7 +32,7 @@ Initiate Node 1 mining: ./geth --datadir node1 --unlock "0x06CCAccb5Ad82640979e6
 > The above code allows Node 1 to begin mining it by unlocking it, setting the "mine" directive, and instantiating it as the RPC node
 
 
-*Node 2
+*Node 2*
 
 Established Node 2 through: ./geth --datadir node2 account new
 
@@ -45,12 +45,12 @@ Initiate Node 2 mining: ./geth --datadir node2 --unlock "0xfC7ed644c6DC1Bf11aD3e
 > The above code allows Node 2 to begin mining by unlocking it & setting the "mine" directive, but in this case we set the "enode" address (copy and pased from Node 1) to allow Node 2 to communicate with Node 1
 
 
-*Network
+*Network*
 
 Established network through: ./puppeth
 
 
-**Network Configuration:
+**Network Configuration:**
 
 Name: nordbynet
 
@@ -61,7 +61,7 @@ Chain ID: 333, the same as the homework
 Password: None, I clicked enter twice to bypass the password requirement
 
 
-**Connecting to MyCrypto:
+**Connecting to MyCrypto:**
 
 To connect my network to MyCrypto, I followed the instructions highlighted in the "Running a Proof of Authority Blockchain", as follows:
 
