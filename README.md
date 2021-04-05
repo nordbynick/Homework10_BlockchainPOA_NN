@@ -4,7 +4,7 @@ Nick Nordby
 
 Blockchain Homework
 
-Images folder contains screenshots - select screenshots below
+Images folder contains screenshots - select screenshots in the README below
 
 Node folders contain my node information 
 
