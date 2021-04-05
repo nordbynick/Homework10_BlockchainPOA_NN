@@ -38,7 +38,7 @@ Node 1 initialization: ./geth --datadir node1 init nordbynet.json
 
 Node 1 mining: ./geth --datadir node1 --unlock "0x06CCAccb5Ad82640979e662e5Fd796c70fbb0487" --mine --rpc --allow-insecure-unlock
 
-> The above code allows Node 1 to begin mining it by unlocking it, setting the "mine" directive, and instantiating it as the RPC node
+> The above code allows Node 1 to begin mining by unlocking it, setting the "mine" directive, and instantiating it as the RPC node
 
 
 *Node 2*
