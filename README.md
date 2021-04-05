@@ -62,6 +62,7 @@ Chain ID: 333, the same as the homework
 
 Password: None, I clicked enter twice to bypass the password requirement
 
+Protocol: Ethereum
 
 **Connecting to MyCrypto:**
 
