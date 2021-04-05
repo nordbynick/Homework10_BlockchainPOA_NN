@@ -13,14 +13,14 @@ Node folders contain my node information
 
 > Download MyCrypto
 
-> Download Geth & Tools 1.9.7 (windows 64 bit)
+> Download Geth & Tools 1.9.7 (Windows 64 bit)
  
 > Git Bash terminal set up for windows
 
 
 **Network Setup:**
 
-I was able to setup a network ("nordbynet") by closely following the PoA Guide. In the guide we used the geth tools in a terminal sesssion to determine the different parameters for the network and eventually launch the network. A screenshot of the setup is lower in this readme file, along with an outline of the configuration.
+I was able to setup a network ("nordbynet") by closely following the PoA Guide. In the guide we used geth tools in a terminal sesssion to determine the different parameters for the network. A screenshot of the setup is lower in this readme file, along with an outline of the configuration.
 
 
 **Node Setup:**
