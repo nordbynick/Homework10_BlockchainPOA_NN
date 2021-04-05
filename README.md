@@ -5,7 +5,7 @@ Nick Nordby
 Blockchain Homework
 
 
-**Environment setup:
+**Environment setup:**
 
 > Download MyCrypto
 
@@ -14,12 +14,12 @@ Blockchain Homework
 > Git Bash terminal set up for windows
 
 
-**Geth Setup:
+**Geth Setup:**
 
 First, I cd'd into the Blockchail-Tools folder on my computer, then...
 
 
-*Node 1
+*Node 1*
 
 Established Node 1 through: ./geth --datadir node1 account new
 
