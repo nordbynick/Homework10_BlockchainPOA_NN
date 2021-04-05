@@ -25,7 +25,7 @@ I was able to setup a network ("nordbynet") by closely following the PoA Guide. 
 
 **Node Setup:**
 
-With this homework assignment we set up two nodes on our network. To do this I first cd'd into the Blockchail-Tools folder on my computer, then in two separate terminal sessions (one for each node)...
+With this homework assignment we set up two nodes on our network. To do this I first cd'd into the Blockchail-Tools (containing geth tools) folder on my computer, then in two separate terminal sessions (one for each node)...
 
 
 *Node 1*
