@@ -4,6 +4,7 @@ Nick Nordby
 
 Blockchain Homework
 
+Images folder contains screenshots - select screenshots below
 
 **Environment setup:**
 
@@ -82,6 +83,23 @@ To connect my network to MyCrypto, I followed the instructions highlighted in th
 
 **Screenshots**
 
+Successful Transaction #1
+
+![](Images/successful_transaction_1.PNG)
+
+Successful Transaction #2
+
+![](Images/successful_transaction_2.PNG)
+
+nordbynet setup in terminal
+
+![](Images/nordbynet_setup.PNG)
+
+nordbynet in mycrypto
+
+![](Images/mycrypto_nordbynet.PNG)
+
+Screenshots of node setup and initialization in the "Images" folder
 
 
 
