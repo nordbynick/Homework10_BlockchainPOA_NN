@@ -6,6 +6,9 @@ Blockchain Homework
 
 Images folder contains screenshots - select screenshots below
 
+Node folders contain my node information 
+
+
 **Environment setup:**
 
 > Download MyCrypto
@@ -15,9 +18,14 @@ Images folder contains screenshots - select screenshots below
 > Git Bash terminal set up for windows
 
 
-**Geth Setup:**
+**Network Setup:**
 
-First, I cd'd into the Blockchail-Tools folder on my computer, then...
+I was able to setup a network ("nordbynet") by closely following the PoA Guide. In the guide we used the geth tools in a terminal sesssion to determine the different parameters for the network and eventually launch the network. A screenshot of the setup is lower in this readme file, along with an outline of the configuration.
+
+
+**Node Setup:**
+
+With this homework assignment we set up two nodes on our network. To do this I first cd'd into the Blockchail-Tools folder on my computer, then in two separate terminal sessions (one for each node)...
 
 
 *Node 1*
@@ -65,6 +73,7 @@ Password: None, I clicked enter twice to bypass the password requirement
 
 Protocol: Ethereum
 
+
 **Connecting to MyCrypto:**
 
 To connect my network to MyCrypto, I followed the instructions highlighted in the "Running a Proof of Authority Blockchain", as follows:
@@ -80,6 +89,7 @@ To connect my network to MyCrypto, I followed the instructions highlighted in th
 > Chain ID "333"
 
 > HTTP: http://127.0.0.1:8545
+
 
 **Screenshots**
 
